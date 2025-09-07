@@ -12,10 +12,6 @@ It fetches real-time weather data using an external API and displays details lik
 
 
 
-## Screenshots
-<!-- Add your screenshot here -->
-![App Screenshot](screenshot.png)
-
 ## Tech Stack
 - **HTML** – structure
 - **CSS** – styling and layout
