@@ -10,8 +10,7 @@ It fetches real-time weather data using an external API and displays details lik
 - Shows temperature, weather description, humidity, and wind speed
 - Clean and responsive design
 
-## Demo
-[Live Demo](#) <!-- Replace # with your deployed app link if available -->
+
 
 ## Screenshots
 <!-- Add your screenshot here -->
